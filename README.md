@@ -5,8 +5,8 @@ I work end to end, from data model to UI, and pair with Claude Code as part of m
 
 ## Featured Projects
 
-<a href="https://github.com/joey-ict-fullstackdev/journey-to-recovery/"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=joey-ict-fullstackdev&repo=journey-to-recovery&theme=radical&cache_seconds=1800" /></a>
-<a href="https://github.com/joey-ict-fullstackdev/ndis-report-generator/"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=joey-ict-fullstackdev&repo=ndis-report-generator&theme=dark&cache_seconds=1800" /></a>
+<a href="https://github.com/joey-ict-fullstackdev/journey-to-recovery/"><img align="center" src="https://raw.githubusercontent.com/joey-ict-fullstackdev/joey-ict-fullstackdev/main/assets/journey-to-recovery-card.svg" /></a>
+<a href="https://github.com/joey-ict-fullstackdev/ndis-report-generator/"><img align="center" src="https://raw.githubusercontent.com/joey-ict-fullstackdev/joey-ict-fullstackdev/main/assets/ndis-report-generator-card.svg" /></a>
 
 ## Skills
 
