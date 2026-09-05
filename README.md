@@ -5,10 +5,10 @@ I work end to end, from data model to UI, and pair with Claude Code as part of m
 
 ## Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [journey-to-recovery](https://github.com/joey-ict-fullstackdev/journey-to-recovery) | Full-stack stroke rehabilitation platform: SMART goal setting, daily wellness tracking, and an AI chatbot that scores chat risk and raises clinician alerts. | React 19, TypeScript, Bun, Express, MySQL, OpenAI / Gemini |
-| [ndis-report-generator](https://github.com/joey-ict-fullstackdev/ndis-report-generator) | Turns allied health session notes into NDIS progress report drafts. Every generated claim must cite a verbatim quote from a source note, and that quote is verified before the claim is treated as fact. | Next.js, TypeScript, Anthropic Claude |
+[![journey-to-recovery](https://img.shields.io/badge/GitHub-journey--to--recovery-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joey-ict-fullstackdev/journey-to-recovery) [![ndis-report-generator](https://img.shields.io/badge/GitHub-ndis--report--generator-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joey-ict-fullstackdev/ndis-report-generator)
+
+- **journey-to-recovery** - Full-stack stroke rehabilitation platform: SMART goal setting, daily wellness tracking, and an AI chatbot that scores chat risk and raises clinician alerts. Stack: React 19, TypeScript, Bun, Express, MySQL, OpenAI / Gemini.
+- **ndis-report-generator** - Turns allied health session notes into NDIS progress report drafts. Every generated claim must cite a verbatim quote from a source note, and that quote is verified before the claim is treated as fact. Stack: Next.js, TypeScript, Anthropic Claude.
 
 ## Skills
 
