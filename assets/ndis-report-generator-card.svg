@@ -1,0 +1,12 @@
+<svg width="400" height="115" viewBox="0 0 400 115" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0.5" y="0.5" width="399" height="114" rx="8" fill="#151515" stroke="#e4e2e2" stroke-opacity="0.15"/>
+    <g transform="translate(18, 22)" fill="#79ff97">
+          <path d="M0 1.75A1.75 1.75 0 0 1 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5a.25.25 0 0 1-.4.2l-1.9-1.425a.25.25 0 0 0-.3 0L7.5 14.7a.25.25 0 0 1-.3 0l-1.9-1.425a.25.25 0 0 0-.3 0l-1.9 1.425a.25.25 0 0 1-.4-.2Z"/>
+    </g>
+    <text x="36" y="29" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff">NDIS Report Generator</text>
+    <text x="18" y="55" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9f9f9f">Turns allied health session notes into NDIS progress report</text>
+    <text x="18" y="72" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9f9f9f">drafts. Every claim must cite a verbatim quote from a</text>
+    <text x="18" y="89" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9f9f9f">source note before it is treated as fact.</text>
+    <circle cx="22" cy="102" r="5" fill="#3178c6"/>
+    <text x="34" y="106" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9f9f9f">TypeScript</text>
+</svg>
